@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/jaspercayne/MineControl.svg?branch=master)](https://travis-ci.org/jaspercayne/MineControl)
 [![Dependency Status](https://david-dm.org/jaspercayne/MineControl/status.svg)](https://david-dm.org/jaspercayne/MineControl)
 
-#MineControl
+# MineControl
 
 Web application for Minecraft server administration using the Mineboxx system
 
